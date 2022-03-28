@@ -18,3 +18,4 @@ Beispiel: Preis: 4,50 €, Bezahlter Betrag: 20 €, Wechselgeld: 15.50
 
 * Anmerkungen
 * Enthält Ausgaben für Ausnahmen, z. B. Preis: €4, bezahlter Betrag: €3. 
+* https://r.search.yahoo.com/_ylt=AwrIQhJOkkFi66gAPRBfCwx.;_ylu=Y29sbwMEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1648493262/RO=10/RU=https%3a%2f%2fgithub.com%2fSaroani%2fThe_cashierProbleme/RK=2/RS=I2y70x0IWTM2CtiX.i2J0.6HS04-
